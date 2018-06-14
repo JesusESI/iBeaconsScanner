@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iBeaconsScanner</string>
+    <string name="ble_not_supported">"Este dispositivo no soporta la tecnologia"</string>
+</resources>
